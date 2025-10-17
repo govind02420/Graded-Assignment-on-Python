@@ -185,13 +185,6 @@ python Q4_backup.py C:\Users\Govind\Documents\source C:\Users\Govind\Documents\b
 | Q3   | Configuration Management | `configparser`, `flask`, `json` | REST API + JSON   |
 | Q4   | Backup Automation        | `os`, `shutil`, `time`          | File Copy Logs    |
 
-| Task | Focus Area | Key Modules Used | Output Type |
-|------|-------------|------------------|--------------|
-| Q1 | Security | `re` | Console Feedback |
-| Q2 | Monitoring | `psutil`, `time` | Alerts |
-| Q3 | Configuration Management | `configparser`, `flask`, `json` | REST API + JSON |
-| Q4 | Backup Automation | `os`, `shutil`, `time` | File Copy Logs |
-
 
 ---
 
